@@ -1,4 +1,4 @@
-f=open('6sample.txt','r')
+f=open('sample.txt','r')
 t=f.readlines()
 print(t[-1])
 f.close

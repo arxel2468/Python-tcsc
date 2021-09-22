@@ -1,5 +1,3 @@
-# factorial = (num-1) * num
-
 def factorial(n):
     if n == 1:
        return n
